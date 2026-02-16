@@ -20,6 +20,6 @@ I’m a Frontend Developer focused on creating **clean, responsive, and user-fri
 
 ###  Let’s Connect
 - LinkedIn: [Muhammad Zahid Khan](https://www.linkedin.com/in/muhammad-zahid-khan-06040a183)  
-- Email: zahidkhan@example.com  
+- Email: zahidkhanfedev@gmail.com  
 
 ---
